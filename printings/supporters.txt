@@ -1,0 +1,35 @@
+4 Arven PAF 235
+4 Boss's Orders PAL 265
+4 Brock's Scouting JTG 179
+4 Carmine PRE 103 PH
+4 Ciphermaniac's Codebreaking TEF 198
+4 Professor Turo's Scenario PAR 257
+4 Professor's Research SVI 240
+4 Iono PAL 269
+
+1 Explorer's Guidance TEF 200
+3 Explorer's Guidance PRE 107 PH
+
+3 Janine's Secret Art SFA 88
+1 Janine's Secret Art PRE 112 PH
+
+1 Judge PAF 228
+
+3 Lana's Aid TWM 155 PH
+
+3 Eri PRE 136
+1 Eri TEF 199
+
+2 Professor Sada's Vitality PAR 256
+1 Professor Sada's Vitality PRE 120 PH
+1 Professor Sada's Vitality PAR 170
+
+1 Morty's Conviction TEF 201
+1 Morty's Conviction TEF 155 PH
+
+1 Crispin PRE 171
+1 Crispin SCR 133 PH
+1 Crispin PRE 105 PH
+1 Crispin SCR 133
+
+1 Xerosic's Machinations SFA 89

@@ -1,0 +1,30 @@
+Pokémon: 16
+3 Ralts SVI 84
+2 Kirlia SVI 85
+2 Gardevoir ex SVI 86
+3 Munkidori TWM 95
+1 Lillie's Clefairy ex JTG 56
+1 Fezandipiti ex SFA 38
+1 Scream Tail PAR 86
+1 Drifloon SVI 89
+1 Budew PRE 4
+1 Cleffa OBF 80
+
+Trainer: 34
+4 Professor's Research JTG 155
+4 Iono PAL 185
+1 Professor Turo's  PAR 171
+4 Nest  SVI 181
+4 Ultra  SVI 196
+4  Stretcher SFA 61
+3 Earthen Vessel PAR 163
+2 Counter Catcher PAR 160
+2 Rare Candy SVI 191
+1 Secret  TWM 163
+3  Charm PAL 173
+2 Artazon PAL 171
+4 Arven OBF 186
+
+Energy: 10
+3 Psychic  SVE 13
+3 Darkness  SVE 15
