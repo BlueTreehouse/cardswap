@@ -106,5 +106,9 @@ trainers = {
     ],
     "Xerosic's Machinations": [
         {"quantity": 1, "set_num": "SFA 89"}
+    ],
+    "Pokégear 3.0": [
+        {"quantity": 2,"set_num": "SVI 186"},
+        {"quantity": 2,"set_num": "SMALT 154"}
     ]
 }

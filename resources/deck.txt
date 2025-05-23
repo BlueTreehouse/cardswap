@@ -1,0 +1,27 @@
+Pokémon: 15
+3 Iono's Kilowattrel JTG 55
+3 Iono's Wattrel JTG 54
+3 Iono's Voltorb JTG 47
+3 Iono's Tadbulb JTG 52
+2 Iono's Bellibolt ex JTG 53
+1 Skwovet SVI 151
+
+Trainer: 28
+4 Arven OBF 186
+2 Iono PAL 185
+1 Boss's Orders PAL 172
+3 Pokégear 3.0 SVI 186
+2 Buddy-Buddy Poffin TEF 144
+2 Letter of Encouragement OBF 189
+2 Superior Energy Retrieval PAL 189
+2 Ultra Ball SVI 196
+1 Precious Trolley SSP 185
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+1 Rescue Board TEF 159
+3 Levincia JTG 150
+
+Energy: 17
+17 Lightning Energy SVE 12

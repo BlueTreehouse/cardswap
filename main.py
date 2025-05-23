@@ -1,14 +1,17 @@
+import sys
 from replacer import *
+from formatter import *
 from dictionaries.pokemon import pokemon
 from dictionaries.trainers import trainers
 from dictionaries.energy import energy
 
 def main():
-    decklist_path = "decklist/gardy.txt"
-    decklist = get_book_text(decklist_path)
-    split = line_split(decklist)
-    remove_blank = line_remove(split)
-    remove_cat = category_remove(remove_blank)
+    if len(sys.argv) < 2:
+        print("Usage: python3 main.py <path_to_book>")
+        sys.exit(1)
+    decklist_path = sys.argv[1]
+
+    processed = category_remove(line_remove(line_split(get_decklist(decklist_path))))
     
     replacement_info = {}
     for dict_to_merge in [pokemon, trainers, energy]:
@@ -17,14 +20,12 @@ def main():
                 replacement_info[card_name] = []
             replacement_info[card_name].extend(replacements)
     
-    
-    
-    new_decklist = card_replacer(remove_cat, replacement_info)
-   # print (remove_cat)
+    new_list = card_replacer(processed, replacement_info)
+    new_decklist = ("\n".join(new_list))
 
-    print ("\n".join(new_decklist))
+    print(f"PASTE THIS INTO PTCGL!!!\n{new_decklist}")
 
-def get_book_text(path):
+def get_decklist(path):
     with open(path) as f:
         return f.read()
 

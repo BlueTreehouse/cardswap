@@ -65,5 +65,63 @@ pokemon = {
     ],
     "Wellspring Mask Ogerpon ex": [
         {"quantity": 2, "set_num": "PRE 152"}
+    ],  
+    "Sylveon ex": [
+        {"quantity": 1,"set_num": "PRE 156"}
+    ],
+    "Flareon ex": [
+        {"quantity": 4,"set_num": "PRE 146"}
+    ],
+    "Vaporeon ex": [
+        {"quantity": 3,"set_num": "PRE 149"}
+    ],
+    "Glaceon ex": [
+        {"quantity": 2,"set_num": "PRE 150"}
+    ],
+    "Jolteon ex": [
+        {"quantity": 2,"set_num": "PRE 153"}
+    ],
+    "Espeon ex": [
+        {"quantity": 1,"set_num": "PRE 155"}
+    ],
+    "Umbreon ex": [
+        {"quantity": 1,"set_num": "PRE 161"}
+    ],
+    "Leafeon ex": [
+        {"quantity": 1,"set_num": "PRE 144"}
+    ],
+    "Gholdengo ex": [
+        {"quantity": 2,"set_num": "PAR 252"}
+    ],
+    "Iron Leaves ex": [
+        {"quantity": 1,"set_num": "TEF 186"},
+        {"quantity": 1,"set_num": "TEF 213"},
+        {"quantity": 1,"set_num": "PRE 176"}
+    ],
+    "Miraidon ex": [
+        {"quantity": 2,"set_num": "SVI 244"}
+    ],
+    "Okidogi ex": [
+        {"quantity": 3,"set_num": "SFA 90"},
+        {"quantity": 1,"set_num": "SFA 82"}
+    ],
+    "Munkidori ex": [
+        {"quantity": 2,"set_num": "SFA 91"},
+        {"quantity": 1,"set_num": "SFA 83"}
+    ],
+    "Pikachu ex": [
+        {"quantity": 4,"set_num": "SSP 238"}
+    ],
+    "Raging Bolt ex": [
+        {"quantity": 1,"set_num": "PRE 166"}
+    ],
+    "Mamoswine ex": [
+        {"quantity": 3,"set_num": "JTG 174"}
+    ],
+    "Terapagos ex": [
+        {"quantity": 2,"set_num": "SCR 170"}
+    ],
+    "Iono's Kilowattrel": [
+        {"quantity": 3,"set_num": "JTG 163"}
     ]
 }
